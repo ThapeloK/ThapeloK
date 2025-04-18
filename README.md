@@ -15,9 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThapeloK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThapeloK&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@TeeGanzi) 
 
