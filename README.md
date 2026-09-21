@@ -2,8 +2,8 @@
 
 
 - 🧠​ Data and Analytics Engineer
-- 🌱 I enjoy learning about simplyfying Data Science and guiding others to unlock their potentials in Analytics
-- 👯 I’m looking to collaborate on Data and Analytics Solutions with speciality in organizing and optimizing information for businesses
+- 🌱 I enjoy learning about simplyfying Data Science and Engieering to guide others to unlock their potentials in Analytics
+- 👯 I’m looking to collaborate on Data Engineering and Analytics Solutions with speciality in organizing and optimizing information for businesses
 - 💬 Ask me about AI, ML & Analytics topics
 - ⚡ Hobby: Fit-Tech
 
